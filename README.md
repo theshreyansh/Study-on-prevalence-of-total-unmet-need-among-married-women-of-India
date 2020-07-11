@@ -1,5 +1,5 @@
 Domain - Healthcare Analytics
-Skills - Decision Trees, Logistic Regression, Random Forest, TABLEAU, CART
+<p>Skills - Decision Trees, Logistic Regression, Random Forest, TABLEAU, CART</p>
 Description - 
 <li>Unmet need for contraception remains a national problem. The National Family Health Survey (NHFS-4) data of 2015-16 was analyzed to understand the prevalence of unmet need among currently married women in India (age group of 15-49 years). The cross-sectional NFHS data consists of 155,880 women respondents not using contraceptives of which 43.32% of respondents have unmet need for family planning. The study provides empirical evidence that a regional approach to mitigate the issue at the policy framing level is necessary.</li>
 <li>The association of unmet need with key demographic, socio-economic, and behavioral variables was studied first by exploratory data analysis (EDA) followed by predictive modeling using CART and logistic regression. EDA and predictive modeling studies both at the pan-India level and state level (subsets were generated based on highest or lowest prevalence rates of unmet need) indicated significant association between unmet need and several demographical, socio-economical and behavioral variables.</li>
