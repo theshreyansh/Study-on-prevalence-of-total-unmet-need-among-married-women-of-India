@@ -1,4 +1,5 @@
-Domain - Healthcare Analytics
+#Study-on-prevalence-of-total-unmet-need-among-married-women-of-India
+<p>Domain - Healthcare Analytics</p>
 <p>Skills - Decision Trees, Logistic Regression, Random Forest, TABLEAU, CART</p>
 Description - 
 <li>Unmet need for contraception remains a national problem. The National Family Health Survey (NHFS-4) data of 2015-16 was analyzed to understand the prevalence of unmet need among currently married women in India (age group of 15-49 years). The cross-sectional NFHS data consists of 155,880 women respondents not using contraceptives of which 43.32% of respondents have unmet need for family planning. The study provides empirical evidence that a regional approach to mitigate the issue at the policy framing level is necessary.</li>
